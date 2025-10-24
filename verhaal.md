@@ -1,6 +1,4 @@
 
-de ultieme gids voor een (merge conflict oplossen) van de meest iconische superhelden in de geschiedenis van de popcultuur. Sinds zijn creatie in 1939 door Bob Kane en Bill Finger, heeft de Dark Knight van Gotham City, Bruce Wayne, generaties fans gefascineerd. Batman is uniek: hij bezit geen superkrachten, maar vertrouwt op zijn briljante intellect, meesterlijke detectievaardigheden, toptraining en geavanceerde technologie. Gedreven door de tragedie van zijn jeugd, strijdt hij tegen de misdaad om zijn corrupte stad te redden.
-=======
 de ultieme gids voor een van de meest iconische superhelden in de geschiedenis van de popcultuur. Sinds zijn creatie in 1939 door Bob Kane en Bill Finger, heeft de Dark Knight van Gotham City, Bruce Wayne, generaties fans gefascineerd. Batman is uniek: hij bezit geen superkrachten, maar vertrouwt op zijn briljante intellect, meesterlijke detectievaardigheden, toptraining en geavanceerde technologie. Gedreven door de tragedie van zijn jeugd, strijdt hij tegen de misdaad om zijn corrupte stad te redden.
  merge conflict oplossen.
->>>>>>> update-verhaal
+
